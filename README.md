@@ -1,7 +1,11 @@
-## Hi there 👋
+## dan-bryant_hpeprod @ github.com
+
+Working on security disclosures and cryptography.  Currently studying [generative AI](https://github.com/copilot)
 
 <!--
-**brianddk/brianddk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi there 👋
+
+**dan-bryant/dan-bryant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
