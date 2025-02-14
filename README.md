@@ -1,4 +1,4 @@
-## dan-bryant_hpeprod @ github.com
+## brianddk @ github.com
 
 Working on security disclosures and cryptography.  Currently studying [generative AI](https://github.com/copilot)
 
