@@ -5,6 +5,20 @@ Working on security disclosures and cryptography.  Currently studying [generativ
 ### Activity
 
 * Github discussion regarding Windows Terminal: [Ctrl-X / Ctrl-V work in PWSH not in CMD \[#18641\]](https://github.com/microsoft/terminal/discussions/18641)
+* GitHub Discussions:
+    [Created](https://github.com/search?q=author%3Abrianddk&type=discussions&s=updated&o=desc) -
+    [Mentioned](https://github.com/search?q=mentions%3Abrianddk&type=discussions&s=updated&o=desc) -
+    [Commented](https://github.com/search?q=commenter%3Abrianddk&type=discussions&s=updated&o=desc)
+* GitHub Issues:
+    [Created](https://github.com/search?q=author%3Abrianddk&type=issues&s=updated&o=desc) - 
+    [Mentioned](https://github.com/search?q=mentions%3Abrianddk&type=issues&s=updated&o=desc) - 
+    [Commented](https://github.com/search?q=commenter%3Abrianddk&type=issues&s=updated&o=desc)
+* GitHub PRs
+    [Created](https://github.com/search?q=author%3Abrianddk&type=pullrequests&s=updated&o=desc) - 
+    [Mentioned](https://github.com/search?q=mentions%3Abrianddk&type=pullrequests&s=updated&o=desc) - 
+    [Commented](https://github.com/search?q=commenter%3Abrianddk&type=pullrequests&s=updated&o=desc)
+* GitHub Commits
+    [Created](https://github.com/search?q=author%3Abrianddk&type=commits&s=updated&o=desc)
 
 <!--
 ## Hi there 👋
