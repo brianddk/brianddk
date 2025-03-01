@@ -2,6 +2,10 @@
 
 Working on security disclosures and cryptography.  Currently studying [generative AI](https://github.com/copilot)
 
+### Activity
+
+* Github discussion regarding Windows Terminal: [Ctrl-X / Ctrl-V work in PWSH not in CMD \[#18641\]](https://github.com/microsoft/terminal/discussions/18641)
+
 <!--
 ## Hi there 👋
 
